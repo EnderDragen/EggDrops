@@ -14,8 +14,7 @@ damage:
 #   player: true (soon)
 #   other-entity: true (soon)
 
-explosion:
-   radius: 3.0
+
 
 
 #####################################
@@ -26,5 +25,5 @@ explosion:
 
 messages:
    enable: true
-   throw: "&aYou throw a grenade!"
+   throw: "&aYou throw an egg!"
 
