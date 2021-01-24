@@ -1,0 +1,17 @@
+name: EggDrops
+main: com.enderdragen.eggDrops.Main
+description: Eggs now drop anything!
+author: [EnderDragen]
+version: 0.0.1 BETA
+
+commands:
+   eggdrop:
+      default: op
+permissions:
+   eggdrops.use:
+      default: op
+      description: Allow player to throw grenades.
+   eggdrops.commands:
+      default: op
+      description: Allow player to use commands.
+   
