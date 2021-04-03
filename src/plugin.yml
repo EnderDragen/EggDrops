@@ -10,7 +10,7 @@ commands:
 permissions:
    eggdrops.use:
       default: op
-      description: Allow player to throw grenades.
+      description: Allow player to throw eggs.
    eggdrops.commands:
       default: op
       description: Allow player to use commands.
